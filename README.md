@@ -3,7 +3,7 @@ Streamlit dashboard that detects text from image and reads that text as audio.
 
 The dashboard was made to run on localhost only.
 
-->The following libraries were used in the application:
+The following libraries were used in the application:
 ->Streamlit
 ->Open CV
 ->numpy
