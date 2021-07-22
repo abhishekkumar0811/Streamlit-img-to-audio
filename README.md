@@ -5,18 +5,19 @@ The dashboard was made to run on localhost only.
 
 The following libraries were used in the application:
 
-Streamlit
+•	Streamlit
 
-Open CV
+•	Open CV
 
-numpy
+•	numpy
 
-Google Text-To-Speech (gTTS)
+•	Google Text-To-Speech (gTTS)
 
-Interactive Python (For Audio Generation)
+•	Interactive Python (For Audio Generation)
 
-pytesseract (Open Source Text Recognition)
+•	pytesseract (Open Source Text Recognition)
 
-Python Imaging library
+•	Python Imaging library
+
 
 Demonstration video link: https://drive.google.com/drive/folders/16QZEdAqMNb1BWW0nK34AiqFQowL_S5fG?usp=sharing
